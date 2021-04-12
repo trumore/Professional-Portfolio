@@ -221,15 +221,15 @@ main {
 
 /* portfolio project images */
 .dayplanner {
-  background-image: url("/images/Scheduler.png");
+  background-image: url("../images/Scheduler.png");
 }
 
 .weather-forecast {
-  background-image: url("/images/Weather-Forecaster.png");
+  background-image: url("../images/Weather-Forecaster.png");
 }
 
 .quiz-game {
-  background-image: url("/images/QuizShow.png");
+  background-image: url("../images/QuizShow.png");
 }
 
 .pastel-puzzles {
@@ -237,7 +237,7 @@ main {
 }
 
 .give-back {
-  background-image: url("/images/Giveback.png");
+  background-image: url("../images/Giveback.png");
 }
 
 /* end portfolio project images */
