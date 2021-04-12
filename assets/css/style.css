@@ -220,24 +220,24 @@ main {
 }
 
 /* portfolio project images */
-.run-buddy {
-  background-image: url("../images/02-run-buddy.jpg");
+.dayplanner {
+  background-image: url("/images/Scheduler.png");
 }
 
-.led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+.weather-forecast {
+  background-image: url("/images/Weather-Forecaster.png");
 }
 
-.react-calc {
-  background-image: url("../images/02-portfolio-2.jpg");
+.quiz-game {
+  background-image: url("/images/QuizShow.png");
 }
 
 .pastel-puzzles {
   background-image: url("../images/02-portfolio-3.jpg");
 }
 
-.surf-report {
-  background-image: url("../images/02-portfolio-4.jpg");
+.give-back {
+  background-image: url("/images/Giveback.png");
 }
 
 /* end portfolio project images */
