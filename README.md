@@ -4,4 +4,7 @@ The motivation behind the creation of this project was to create a responsive po
 
 The page not only contains personal information about me, but also professional information to also include functioning links to projects I have completed, along with my Github page.
 
+
+![Home Page](assets/images/HomePage.png)
+
 link to deployed page: https://trumore.github.io/Professional-Portfolio/
